@@ -1,0 +1,2 @@
+Python 2 or python 3
+Jupyter or notebook or any other python capable editor.
